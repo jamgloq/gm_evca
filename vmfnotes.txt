@@ -1,0 +1,20 @@
+56/28*x=52/26
+
+1456
+
+0.928571
+0.9290
+
+
+Current world:
+1.083333333 Real scale
+0.9290 x old scale
+
+ceiling tile scale
+0.203125
+X156
+Y108
+
+floor scale
+realworldtextures/floor/mixtile/solid/gray
+0.05
