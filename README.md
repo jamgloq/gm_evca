@@ -1,5 +1,6 @@
-# development nightly build
+# gmod map development build
 
 
-#Modeled after a familiar place 
-#Use cstrike and tf textures 
+* Modeled after a familiar place 
+* Use cstrike and tf textures 
+
