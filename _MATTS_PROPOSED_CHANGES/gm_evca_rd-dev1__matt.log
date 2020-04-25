@@ -67,3 +67,514 @@ Average clusters audible: 327
 visdatasize:29543  compressed from 31392
 writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
 10 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (460946 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 332 portalclusters
+ 981 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 217 visible clusters (0.23%)
+Total clusters visible: 95695
+Average clusters visible: 288
+Building PAS...
+Average clusters audible: 332
+visdatasize:30426  compressed from 31872
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+6 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (460978 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 337 portalclusters
+ 999 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 216 visible clusters (0.22%)
+Total clusters visible: 99337
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 337
+visdatasize:31552  compressed from 32352
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (460978 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 337 portalclusters
+ 999 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 216 visible clusters (0.22%)
+Total clusters visible: 99337
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 337
+visdatasize:31552  compressed from 32352
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (460978 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 337 portalclusters
+ 999 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 216 visible clusters (0.22%)
+Total clusters visible: 99337
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 337
+visdatasize:31552  compressed from 32352
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (460994 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 337 portalclusters
+ 999 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 216 visible clusters (0.22%)
+Total clusters visible: 99337
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 337
+visdatasize:31552  compressed from 32352
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (460994 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 337 portalclusters
+ 999 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 216 visible clusters (0.22%)
+Total clusters visible: 99337
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 337
+visdatasize:31552  compressed from 32352
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+7 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev1__matt/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (461010 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 279 texinfos to 108
+Reduced 33 texdatas to 25 (1152 bytes to 884)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev1__matt.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.prt
+ 337 portalclusters
+ 999 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 216 visible clusters (0.22%)
+Total clusters visible: 99337
+Average clusters visible: 294
+Building PAS...
+Average clusters audible: 337
+visdatasize:31552  compressed from 32352
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev1__matt.bsp
+7 seconds elapsed
