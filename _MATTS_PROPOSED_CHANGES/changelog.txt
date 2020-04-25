@@ -1,0 +1,21 @@
+Matt's Proposed Changes:
+
+More like Matt's proposed bugfixes really...
+
+- Changed model class for celiing lights to **prop_dynamic**
+	- Ceiling light props are no longer errors after compiling
+
+- Removed duplicate light prop 
+	- It was the light closest to the door, there were 2 stacked inside eachother
+
+- Fixed door rotation and starting positions
+	Changes to properties and flags for both doors:
+	- Property: "Spawn Position" --> "Open"
+	- Property: "Pitch Yaw Roll (Y Z X)" --> "0 0 0"
+	- Property: "Distance" --> "-90"
+	- Property:  "Allow Physics Gun" --> "No"
+	- Flag:  "One-way" --> CHECKED
+
+	Notes:  Doors start in open position as before, but will now close to the correct place.  To start the doors in
+		the closed position, change the "Spawn Position" property to "Closed".  Doors will open in the same 
+		direction regardless of player position.  Doors can no longer be grabbed by the player with the phys gun.
