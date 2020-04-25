@@ -19,3 +19,5 @@ More like Matt's proposed bugfixes really...
 	Notes:  Doors start in open position as before, but will now close to the correct place.  To start the doors in
 		the closed position, change the "Spawn Position" property to "Closed".  Doors will open in the same 
 		direction regardless of player position.  Doors can no longer be grabbed by the player with the phys gun.
+
+Changes merged with main - JL
