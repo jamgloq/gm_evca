@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	$basetexture realworldtextures/new/ground6
+	$surfaceprop dirt
+
+	$basetexture2 nature/gravelfloor004a
+	$surfaceprop2 gravel
+
+	%tooltexture nature/gravelfloor004a
+}

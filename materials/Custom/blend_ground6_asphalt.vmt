@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	$basetexture realworldtextures/new/ground6
+	$surfaceprop dirt
+
+	$basetexture2 de_tides\tides_concretefloor
+	$surfaceprop2 rock
+
+	%tooltexture de_tides\tides_concretefloor
+}
