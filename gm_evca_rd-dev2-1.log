@@ -994,3 +994,1890 @@ Level flags = 0
 Total triangle count: 2226
 Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
 6 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1918584 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 347 texinfos to 123
+Reduced 38 texdatas to 29 (1217 bytes to 931)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 229 portalclusters
+ 716 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 224 visible clusters (0.50%)
+Total clusters visible: 45045
+Average clusters visible: 196
+Building PAS...
+Average clusters audible: 229
+visdatasize:15076  compressed from 14656
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+700 faces
+1388318 square feet [199917920.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+700 patches before subdivision
+5418 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 181855, max 279
+transfer lists:   1.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6107, 5208, 3556)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(1967, 1821, 1129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(780, 731, 388)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(302, 287, 129)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(118, 113, 43)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(45, 44, 14)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(18, 17, 5)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(7, 7, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(3, 3, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                171/8192         2052/98304    ( 2.1%) 
+brushsides            1073/65536        8584/524288   ( 1.6%) 
+planes                 584/65536       11680/1310720  ( 0.9%) 
+vertexes              1191/65536       14292/786432   ( 1.8%) 
+nodes                  608/65536       19456/2097152  ( 0.9%) 
+texinfos               123/12288        8856/884736   ( 1.0%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  700/65536       39200/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              390/65536       21840/3670016  ( 0.6%) 
+leaves                 616/65536       19712/2097152  ( 0.9%) 
+leaffaces              634/65536        1268/131072   ( 1.0%) 
+leafbrushes            477/65536         954/131072   ( 0.7%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4688/512000      18752/2048000  ( 0.9%) 
+edges                 2789/256000      11156/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             43/32768         430/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           789/65536        1578/131072   ( 1.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      201808/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       15076/16777216 ( 0.1%) 
+entdata               [variable]       24150/393216   ( 6.1%) 
+LDR ambient table      616/65536        2464/262144   ( 0.9%) 
+HDR ambient table      616/65536        2464/262144   ( 0.9%) 
+LDR leaf ambient      2227/65536       62356/1835008  ( 3.4%) 
+HDR leaf ambient       616/65536       17248/1835008  ( 0.9%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1918584/4194304  (45.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1704
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1931616 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 133
+Reduced 38 texdatas to 29 (1217 bytes to 931)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 273 portalclusters
+ 827 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 263 visible clusters (0.47%)
+Total clusters visible: 55434
+Average clusters visible: 203
+Building PAS...
+Average clusters audible: 273
+visdatasize:21086  compressed from 21840
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+23 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+741 faces
+1388436 square feet [199934800.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+741 patches before subdivision
+5449 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 197072, max 279
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6818, 5844, 4039)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2192, 2031, 1274)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(926, 866, 472)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(361, 344, 159)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(148, 142, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(58, 57, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(23, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                214/8192         2568/98304    ( 2.6%) 
+brushsides            1331/65536       10648/524288   ( 2.0%) 
+planes                 620/65536       12400/1310720  ( 0.9%) 
+vertexes              1437/65536       17244/786432   ( 2.2%) 
+nodes                  718/65536       22976/2097152  ( 1.1%) 
+texinfos               133/12288        9576/884736   ( 1.1%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  741/65536       41496/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              416/65536       23296/3670016  ( 0.6%) 
+leaves                 726/65536       23232/2097152  ( 1.1%) 
+leaffaces              673/65536        1346/131072   ( 1.0%) 
+leafbrushes            548/65536        1096/131072   ( 0.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4986/512000      19944/2048000  ( 1.0%) 
+edges                 3007/256000      12028/1024000  ( 1.2%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             61/32768         610/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          1050/65536        2100/131072   ( 1.6%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      202068/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       21086/16777216 ( 0.1%) 
+entdata               [variable]       24150/393216   ( 6.1%) 
+LDR ambient table      726/65536        2904/262144   ( 1.1%) 
+HDR ambient table      726/65536        2904/262144   ( 1.1%) 
+LDR leaf ambient      2333/65536       65324/1835008  ( 3.6%) 
+HDR leaf ambient       726/65536       20328/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1931616/4194304  (46.1%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1816
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1930240 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 380 texinfos to 132
+Reduced 38 texdatas to 29 (1217 bytes to 931)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 274 portalclusters
+ 831 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 269 visible clusters (0.48%)
+Total clusters visible: 55729
+Average clusters visible: 203
+Building PAS...
+Average clusters audible: 274
+visdatasize:21166  compressed from 21920
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+23 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+729 faces
+1388432 square feet [199934240.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+729 patches before subdivision
+5455 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 196173, max 279
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6894, 5908, 4098)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2201, 2039, 1280)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(936, 875, 478)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(363, 346, 160)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(149, 143, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(59, 57, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(24, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0023 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                214/8192         2568/98304    ( 2.6%) 
+brushsides            1331/65536       10648/524288   ( 2.0%) 
+planes                 620/65536       12400/1310720  ( 0.9%) 
+vertexes              1382/65536       16584/786432   ( 2.1%) 
+nodes                  714/65536       22848/2097152  ( 1.1%) 
+texinfos               132/12288        9504/884736   ( 1.1%) 
+texdata                 29/2048          928/65536    ( 1.4%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  729/65536       40824/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              408/65536       22848/3670016  ( 0.6%) 
+leaves                 722/65536       23104/2097152  ( 1.1%) 
+leaffaces              665/65536        1330/131072   ( 1.0%) 
+leafbrushes            543/65536        1086/131072   ( 0.8%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4894/512000      19576/2048000  ( 1.0%) 
+edges                 2914/256000      11656/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             54/32768         540/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           933/65536        1866/131072   ( 1.4%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      202204/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       21166/16777216 ( 0.1%) 
+entdata               [variable]       24150/393216   ( 6.1%) 
+LDR ambient table      722/65536        2888/262144   ( 1.1%) 
+HDR ambient table      722/65536        2888/262144   ( 1.1%) 
+LDR leaf ambient      2338/65536       65464/1835008  ( 3.6%) 
+HDR leaf ambient       722/65536       20216/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1930240/4194304  (46.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1780
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1930240 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 384 texinfos to 133
+Reduced 39 texdatas to 30 (1233 bytes to 947)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 263 portalclusters
+ 782 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 218 visible clusters (0.42%)
+Total clusters visible: 51561
+Average clusters visible: 196
+Building PAS...
+Average clusters audible: 263
+visdatasize:19308  compressed from 21040
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+730 faces
+1388432 square feet [199934240.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+730 patches before subdivision
+5460 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 196758, max 283
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6884, 5897, 4086)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2228, 2063, 1297)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(940, 878, 479)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(367, 349, 162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(150, 144, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(59, 58, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(24, 24, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0028 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                215/8192         2580/98304    ( 2.6%) 
+brushsides            1337/65536       10696/524288   ( 2.0%) 
+planes                 624/65536       12480/1310720  ( 1.0%) 
+vertexes              1367/65536       16404/786432   ( 2.1%) 
+nodes                  707/65536       22624/2097152  ( 1.1%) 
+texinfos               133/12288        9576/884736   ( 1.1%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  730/65536       40880/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              409/65536       22904/3670016  ( 0.6%) 
+leaves                 715/65536       22880/2097152  ( 1.1%) 
+leaffaces              666/65536        1332/131072   ( 1.0%) 
+leafbrushes            576/65536        1152/131072   ( 0.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4902/512000      19608/2048000  ( 1.0%) 
+edges                 2919/256000      11676/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             54/32768         540/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           954/65536        1908/131072   ( 1.5%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      201856/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       19308/16777216 ( 0.1%) 
+entdata               [variable]       24183/393216   ( 6.2%) 
+LDR ambient table      715/65536        2860/262144   ( 1.1%) 
+HDR ambient table      715/65536        2860/262144   ( 1.1%) 
+LDR leaf ambient      2286/65536       64008/1835008  ( 3.5%) 
+HDR leaf ambient       715/65536       20020/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1930240/4194304  (46.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1782
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.lin
+Areaportal leak ! File: C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.lin 
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 45277: areaportal brush doesn't touch two areas
+
+Brush 45277: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1917504 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 330 texinfos to 115
+Reduced 39 texdatas to 30 (1233 bytes to 947)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 250 portalclusters
+ 740 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 196 visible clusters (0.39%)
+Total clusters visible: 49896
+Average clusters visible: 199
+Building PAS...
+Average clusters audible: 250
+visdatasize:18148  compressed from 16000
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+17 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+699 faces
+1388314 square feet [199917248.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+699 patches before subdivision
+5409 patches after subdivision
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 185626, max 283
+transfer lists:   1.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6698, 5722, 3819)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2369, 2185, 1330)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(980, 916, 479)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(405, 383, 172)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(166, 159, 61)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(68, 66, 22)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(28, 27, 8)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(11, 11, 3)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(5, 5, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(2, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                151/8192         1812/98304    ( 1.8%) 
+brushsides             953/65536        7624/524288   ( 1.5%) 
+planes                 582/65536       11640/1310720  ( 0.9%) 
+vertexes              1212/65536       14544/786432   ( 1.8%) 
+nodes                  670/65536       21440/2097152  ( 1.0%) 
+texinfos               115/12288        8280/884736   ( 0.9%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  699/65536       39144/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              388/65536       21728/3670016  ( 0.6%) 
+leaves                 678/65536       21696/2097152  ( 1.0%) 
+leaffaces              640/65536        1280/131072   ( 1.0%) 
+leafbrushes            485/65536         970/131072   ( 0.7%) 
+areas                    2/256            16/2048     ( 0.8%) 
+surfedges             4672/512000      18688/2048000  ( 0.9%) 
+edges                 2716/256000      10864/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             41/32768         410/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           813/65536        1626/131072   ( 1.2%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      201176/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       18148/16777216 ( 0.1%) 
+entdata               [variable]       24183/393216   ( 6.2%) 
+LDR ambient table      678/65536        2712/262144   ( 1.0%) 
+HDR ambient table      678/65536        2712/262144   ( 1.0%) 
+LDR leaf ambient      2253/65536       63084/1835008  ( 3.4%) 
+HDR leaf ambient       678/65536       18984/1835008  ( 1.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1917504/4194304  (45.7%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1698
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+4 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1930240 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 379 texinfos to 133
+Reduced 39 texdatas to 30 (1233 bytes to 947)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 274 portalclusters
+ 825 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 234 visible clusters (0.42%)
+Total clusters visible: 55526
+Average clusters visible: 202
+Building PAS...
+Average clusters audible: 274
+visdatasize:21163  compressed from 21920
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+21 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+730 faces
+1388432 square feet [199934240.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+730 patches before subdivision
+5458 patches after subdivision
+WARNING: light_spot at (300 153 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 153 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 307 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 307 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 309 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 309 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 205 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 205 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 203 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 203 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 98 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 98 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 49 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 49 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 151 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 151 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 98 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 98 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 255 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 255 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 46 -77) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 46 -77) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 257 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 257 -76) has outer angle larger than 90 degrees! Clamping to 90...
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 196185, max 283
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6893, 5907, 4088)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2233, 2068, 1299)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(940, 879, 479)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(368, 350, 162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(150, 144, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(59, 58, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(24, 24, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0024 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                211/8192         2532/98304    ( 2.6%) 
+brushsides            1313/65536       10504/524288   ( 2.0%) 
+planes                 624/65536       12480/1310720  ( 1.0%) 
+vertexes              1368/65536       16416/786432   ( 2.1%) 
+nodes                  714/65536       22848/2097152  ( 1.1%) 
+texinfos               133/12288        9576/884736   ( 1.1%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  730/65536       40880/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              409/65536       22904/3670016  ( 0.6%) 
+leaves                 722/65536       23104/2097152  ( 1.1%) 
+leaffaces              669/65536        1338/131072   ( 1.0%) 
+leafbrushes            608/65536        1216/131072   ( 0.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4901/512000      19604/2048000  ( 1.0%) 
+edges                 2921/256000      11684/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             51/32768         510/327680   ( 0.2%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           945/65536        1890/131072   ( 1.4%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      201796/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       21163/16777216 ( 0.1%) 
+entdata               [variable]       24207/393216   ( 6.2%) 
+LDR ambient table      722/65536        2888/262144   ( 1.1%) 
+HDR ambient table      722/65536        2888/262144   ( 1.1%) 
+LDR leaf ambient      2345/65536       65660/1835008  ( 3.6%) 
+HDR leaf ambient       722/65536       20216/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1930240/4194304  (46.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1781
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1930240 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 381 texinfos to 133
+Reduced 39 texdatas to 30 (1233 bytes to 947)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 267 portalclusters
+ 809 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 203 visible clusters (0.38%)
+Total clusters visible: 53054
+Average clusters visible: 198
+Building PAS...
+Average clusters audible: 267
+visdatasize:20068  compressed from 21360
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+19 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+730 faces
+1388432 square feet [199934240.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+730 patches before subdivision
+5458 patches after subdivision
+WARNING: light_spot at (300 153 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 153 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 307 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 307 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 309 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 309 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 205 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 205 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 203 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 203 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 98 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 98 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 49 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 49 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 151 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 151 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 98 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 98 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 255 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 255 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 46 -77) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 46 -77) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 257 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 257 -76) has outer angle larger than 90 degrees! Clamping to 90...
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 196224, max 283
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6878, 5893, 4078)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2232, 2067, 1298)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(939, 878, 479)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(368, 349, 162)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(150, 144, 58)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(59, 58, 20)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(24, 24, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0027 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                211/8192         2532/98304    ( 2.6%) 
+brushsides            1313/65536       10504/524288   ( 2.0%) 
+planes                 622/65536       12440/1310720  ( 0.9%) 
+vertexes              1360/65536       16320/786432   ( 2.1%) 
+nodes                  710/65536       22720/2097152  ( 1.1%) 
+texinfos               133/12288        9576/884736   ( 1.1%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  730/65536       40880/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              409/65536       22904/3670016  ( 0.6%) 
+leaves                 718/65536       22976/2097152  ( 1.1%) 
+leaffaces              669/65536        1338/131072   ( 1.0%) 
+leafbrushes            625/65536        1250/131072   ( 1.0%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4901/512000      19604/2048000  ( 1.0%) 
+edges                 2921/256000      11684/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             49/32768         490/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           909/65536        1818/131072   ( 1.4%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      201764/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       20068/16777216 ( 0.1%) 
+entdata               [variable]       24207/393216   ( 6.2%) 
+LDR ambient table      718/65536        2872/262144   ( 1.1%) 
+HDR ambient table      718/65536        2872/262144   ( 1.1%) 
+LDR leaf ambient      2315/65536       64820/1835008  ( 3.5%) 
+HDR leaf ambient       718/65536       20104/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1930240/4194304  (46.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1781
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+5 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.vmf
+Can't find surfaceprop asphalt for material REALWORLDTEXTURES/NEWER/1/ASPHALT_1_05, using default
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in c:\program files (x86)\steam\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-1/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+NODRAW on terrain surface!
+done (0)
+writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+WARNING: Map using power 4 displacements, terrain physics cannot be compressed, map will need additional memory and CPU.
+done (0) (1930240 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 378 texinfos to 133
+Reduced 39 texdatas to 30 (1233 bytes to 947)
+Writing C:\Users\james\Documents\GitHub\gm_evca\gm_evca_rd-dev2-1.bsp
+0 seconds elapsed
+
+
+
+16 threads
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+reading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.prt
+ 264 portalclusters
+ 777 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 154 visible clusters (0.30%)
+Total clusters visible: 51374
+Average clusters visible: 194
+Building PAS...
+Average clusters audible: 264
+visdatasize:19490  compressed from 21120
+writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+13 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+Patch Sample Radius Clamped!
+722 faces
+1388432 square feet [199934224.00 square inches]
+79 Displacements
+1138038 Square Feet [163877568.00 Square Inches]
+722 patches before subdivision
+5438 patches after subdivision
+WARNING: light_spot at (300 153 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 153 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 307 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 307 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 309 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 309 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 205 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 205 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 203 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 203 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 98 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (222 98 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 49 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 49 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 151 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 151 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 98 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (66 98 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 255 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (144 255 -76) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 46 -77) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 46 -77) has outer angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 257 -76) has inner angle larger than 90 degrees! Clamping to 90...
+WARNING: light_spot at (300 257 -76) has outer angle larger than 90 degrees! Clamping to 90...
+27 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 192604, max 283
+transfer lists:   1.5 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(6667, 5717, 3960)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(2200, 2036, 1280)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(919, 859, 468)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(362, 344, 159)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(147, 142, 57)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(58, 57, 19)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(23, 23, 7)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0025 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                   7/1024          336/49152    ( 0.7%) 
+brushes                210/8192         2520/98304    ( 2.6%) 
+brushsides            1307/65536       10456/524288   ( 2.0%) 
+planes                 622/65536       12440/1310720  ( 0.9%) 
+vertexes              1359/65536       16308/786432   ( 2.1%) 
+nodes                  704/65536       22528/2097152  ( 1.1%) 
+texinfos               133/12288        9576/884736   ( 1.1%) 
+texdata                 30/2048          960/65536    ( 1.5%) 
+dispinfos               79/0           13904/0        ( 0.0%) 
+disp_verts            9895/0          197900/0        ( 0.0%) 
+disp_tris            16928/0           33856/0        ( 0.0%) 
+disp_lmsamples      108595/0          108595/0        ( 0.0%) 
+faces                  722/65536       40432/3670016  ( 1.1%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces              407/65536       22792/3670016  ( 0.6%) 
+leaves                 712/65536       22784/2097152  ( 1.1%) 
+leaffaces              661/65536        1322/131072   ( 1.0%) 
+leafbrushes            562/65536        1124/131072   ( 0.9%) 
+areas                    3/256            24/2048     ( 1.2%) 
+surfedges             4860/512000      19440/2048000  ( 0.9%) 
+edges                 2897/256000      11588/1024000  ( 1.1%) 
+LDR worldlights         27/8192         2376/720896   ( 0.3%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             44/32768         440/327680   ( 0.1%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices           825/65536        1650/131072   ( 1.3%) 
+cubemapsamples           1/1024           16/16384    ( 0.1%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      201752/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       19490/16777216 ( 0.1%) 
+entdata               [variable]       24207/393216   ( 6.2%) 
+LDR ambient table      712/65536        2848/262144   ( 1.1%) 
+HDR ambient table      712/65536        2848/262144   ( 1.1%) 
+LDR leaf ambient      2287/65536       64036/1835008  ( 3.5%) 
+HDR leaf ambient       712/65536       19936/1835008  ( 1.1%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/12       ( 8.3%) 
+pakfile               [variable]      176519/0        ( 0.0%) 
+physics               [variable]     1930240/4194304  (46.0%) 
+physics terrain       [variable]           0/1048576  ( 0.0%) 
+
+Level flags = 0
+
+Total triangle count: 1764
+Writing c:\users\james\documents\github\gm_evca\gm_evca_rd-dev2-1.bsp
+5 seconds elapsed
