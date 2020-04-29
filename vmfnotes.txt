@@ -14,3 +14,4 @@ floor scale
 0.05
 realworldtextures/floor/mixtile/solid/gray
 
+hallway 20 units wider 
