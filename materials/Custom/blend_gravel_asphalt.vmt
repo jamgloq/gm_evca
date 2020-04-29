@@ -1,0 +1,10 @@
+"WorldVertexTransition"
+{
+	$basetexture nature/gravelfloor004a
+	$surfaceprop gravel
+
+	$basetexture2 de_tides\tides_concretefloor
+	$surfaceprop2 rock
+
+	%tooltexture nature/gravelfloor004a
+}
