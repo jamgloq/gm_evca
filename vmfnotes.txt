@@ -15,3 +15,5 @@ floor scale
 realworldtextures/floor/mixtile/solid/gray
 
 hallway 20 units wider 
+COPY PASTE LIGHTS SEPERATELY FROM OTHER PARTS OF THE BUILDING 
+Manually align lights in hallway? up to one unit off everywhere. usually 1/2
