@@ -1598,3 +1598,712 @@ Average clusters audible: 173
 visdatasize:9028  compressed from 8304
 writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
 0 seconds elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1074.62 -552.75 -204.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -218.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -129.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -41.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1545.5 -130.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 2048.0 -130.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 1536.0 -130.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 -1024.0 -130.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (178.0 0.0 -210.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 188 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (113213 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Static prop models/props/cs_assault/acunit02.mdl outside the map (253.00, 1060.00, -118.48)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2266 texinfos to 266
+Reduced 48 texdatas to 33 (1919 bytes to 1278)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.bsp
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+LoadPortals: couldn't read c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1074.62 -552.75 -204.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -218.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -129.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -41.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1545.5 -130.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 2048.0 -130.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 1536.0 -130.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 -1024.0 -130.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (178.0 0.0 -210.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 188 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (113213 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Static prop models/props/cs_assault/acunit02.mdl outside the map (253.00, 1060.00, -118.48)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2266 texinfos to 266
+Reduced 48 texdatas to 33 (1919 bytes to 1278)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.bsp
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+LoadPortals: couldn't read c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+PREP OK
+No vis information, direct lighting only.
+1123 faces
+12155 square feet [1750425.38 square inches]
+560 Displacements
+38208 Square Feet [5502040.00 Square Inches]
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0013 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                556/16384        6672/196608   ( 3.4%) 
+brushsides            3365/65536       26920/524288   ( 5.1%) 
+planes                 942/65536       18840/1310720  ( 1.4%) 
+vertexes              2410/65536       28920/786432   ( 3.7%) 
+nodes                  496/65536       15872/2097152  ( 0.8%) 
+texinfos               266/12288       19152/884736   ( 2.2%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos              560/0           98560/0        ( 0.0%) 
+disp_verts           44520/0          890400/0        ( 0.0%) 
+disp_tris            70240/0          140480/0        ( 0.0%) 
+disp_lmsamples      141692/0          141692/0        ( 0.0%) 
+faces                 1123/65536       62888/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1075/65536       60200/3670016  ( 1.6%) 
+leaves                 510/65536       16320/2097152  ( 0.8%) 
+leaffaces              594/65536        1188/131072   ( 0.9%) 
+leafbrushes            531/65536        1062/131072   ( 0.8%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges             9355/512000      37420/2048000  ( 1.8%) 
+edges                 5820/256000      23280/1024000  ( 2.3%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             83/32768         830/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      285020/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       55047/393216   (14.0%) 
+LDR ambient table      510/65536        2040/262144   ( 0.8%) 
+HDR ambient table      510/65536        2040/262144   ( 0.8%) 
+LDR leaf ambient      1310/65536       36680/1835008  ( 2.0%) 
+HDR leaf ambient       510/65536       14280/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]      230018/0        ( 0.0%) 
+physics               [variable]      113213/4194304  ( 2.7%) 
+physics terrain       [variable]       41036/1048576  ( 3.9%) 
+
+Level flags = 0
+
+Total triangle count: 2817
+Writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+1 second elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...10**** leaked ****
+Entity prop_dynamic (-1074.62 -552.75 -204.00) leaked!
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -218.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -129.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1033.5 -41.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (0.0 1545.5 -130.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-512.0 2048.0 -130.5)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (-1024.0 1536.0 -130.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (512.0 -1024.0 -130.5)
+Leaf 0 contents: CONTENTS_SOLID 
+Leaf 1 contents: 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+
+FindPortalSide: Couldn't find a good match for which brush to assign to a portal near (178.0 0.0 -210.0)
+Leaf 0 contents: 
+Leaf 1 contents: CONTENTS_SOLID 
+viscontents (node 0 contents ^ node 1 contents): CONTENTS_SOLID 
+This means that none of the brushes in leaf 0 or 1 that touches the portal has CONTENTS_SOLID 
+Check for a huge brush enclosing the coordinates above that has contents CONTENTS_SOLID 
+Candidate brush IDs: 
+
+*** Suppressing further FindPortalSide errors.... ***
+Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 188 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (113213 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Static prop models/props/cs_assault/acunit02.mdl outside the map (253.00, 1060.00, -118.48)
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2266 texinfos to 266
+Reduced 48 texdatas to 33 (1919 bytes to 1278)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.bsp
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+LoadPortals: couldn't read c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+PREP OK
+No vis information, direct lighting only.
+1123 faces
+12155 square feet [1750425.38 square inches]
+560 Displacements
+38208 Square Feet [5502040.00 Square Inches]
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0013 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                556/16384        6672/196608   ( 3.4%) 
+brushsides            3365/65536       26920/524288   ( 5.1%) 
+planes                 942/65536       18840/1310720  ( 1.4%) 
+vertexes              2410/65536       28920/786432   ( 3.7%) 
+nodes                  496/65536       15872/2097152  ( 0.8%) 
+texinfos               266/12288       19152/884736   ( 2.2%) 
+texdata                 33/2048         1056/65536    ( 1.6%) 
+dispinfos              560/0           98560/0        ( 0.0%) 
+disp_verts           44520/0          890400/0        ( 0.0%) 
+disp_tris            70240/0          140480/0        ( 0.0%) 
+disp_lmsamples      141692/0          141692/0        ( 0.0%) 
+faces                 1123/65536       62888/3670016  ( 1.7%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1075/65536       60200/3670016  ( 1.6%) 
+leaves                 510/65536       16320/2097152  ( 0.8%) 
+leaffaces              594/65536        1188/131072   ( 0.9%) 
+leafbrushes            531/65536        1062/131072   ( 0.8%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges             9355/512000      37420/2048000  ( 1.8%) 
+edges                 5820/256000      23280/1024000  ( 2.3%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             83/32768         830/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2214/65536        4428/131072   ( 3.4%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      285020/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]           0/16777216 ( 0.0%) 
+entdata               [variable]       55047/393216   (14.0%) 
+LDR ambient table      510/65536        2040/262144   ( 0.8%) 
+HDR ambient table      510/65536        2040/262144   ( 0.8%) 
+LDR leaf ambient      1310/65536       36680/1835008  ( 2.0%) 
+HDR leaf ambient       510/65536       14280/1835008  ( 0.8%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/206      ( 0.5%) 
+pakfile               [variable]      230018/0        ( 0.0%) 
+physics               [variable]      113213/4194304  ( 2.7%) 
+physics terrain       [variable]       41036/1048576  ( 3.9%) 
+
+Level flags = 0
+
+Total triangle count: 2817
+Writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+1 second elapsed
+
+
+
+materialPath: D:\SteamLibrary\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Could not locate 'GameData' key in d:\steamlibrary\steamapps\common\garrysmod\garrysmod\gameinfo.txt
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-3__matt/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 188 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (0) (120869 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 2278 texinfos to 301
+Reduced 49 texdatas to 38 (1937 bytes to 1556)
+Writing C:\Users\mrgho\Documents\GitHub\gm_evca\_MATTS_PROPOSED_CHANGES\gm_evca_rd-dev2-3__matt.bsp
+1 second elapsed
+
+
+
+16 threads
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+reading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.prt
+ 173 portalclusters
+ 496 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 248 visible clusters (1.04%)
+Total clusters visible: 23800
+Average clusters visible: 137
+Building PAS...
+Average clusters audible: 173
+visdatasize:9028  compressed from 8304
+writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+PREP OK
+1436 faces
+1370810 square feet [197396656.00 square inches]
+560 Displacements
+38208 Square Feet [5502040.00 Square Inches]
+1436 patches before subdivision
+3382 patches after subdivision
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 312498, max 577
+transfer lists:   2.4 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(20321, 17476, 12965)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(5853, 5399, 3473)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(2313, 2188, 1214)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(899, 870, 410)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(362, 356, 144)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(143, 143, 49)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(57, 58, 17)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(23, 23, 6)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(9, 9, 2)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(4, 4, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(1, 2, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0014 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  13/1024          624/49152    ( 1.3%) 
+brushes                562/16384        6744/196608   ( 3.4%) 
+brushsides            3401/65536       27208/524288   ( 5.2%) 
+planes                1000/65536       20000/1310720  ( 1.5%) 
+vertexes              2774/65536       33288/786432   ( 4.2%) 
+nodes                  790/65536       25280/2097152  ( 1.2%) 
+texinfos               301/12288       21672/884736   ( 2.4%) 
+texdata                 38/2048         1216/65536    ( 1.9%) 
+dispinfos              560/0           98560/0        ( 0.0%) 
+disp_verts           44520/0          890400/0        ( 0.0%) 
+disp_tris            70240/0          140480/0        ( 0.0%) 
+disp_lmsamples      141692/0          141692/0        ( 0.0%) 
+faces                 1436/65536       80416/3670016  ( 2.2%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             1156/65536       64736/3670016  ( 1.8%) 
+leaves                 804/65536       25728/2097152  ( 1.2%) 
+leaffaces              910/65536        1820/131072   ( 1.4%) 
+leafbrushes            835/65536        1670/131072   ( 1.3%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            10989/512000      43956/2048000  ( 2.1%) 
+edges                 6666/256000      26664/1024000  ( 2.6%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips             98/32768         980/327680   ( 0.3%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          2478/65536        4956/131072   ( 3.8%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      293576/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]        9028/16777216 ( 0.1%) 
+entdata               [variable]       55047/393216   (14.0%) 
+LDR ambient table      804/65536        3216/262144   ( 1.2%) 
+HDR ambient table      804/65536        3216/262144   ( 1.2%) 
+LDR leaf ambient      1582/65536       44296/1835008  ( 2.4%) 
+HDR leaf ambient       804/65536       22512/1835008  ( 1.2%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/274      ( 0.4%) 
+pakfile               [variable]      230018/0        ( 0.0%) 
+physics               [variable]      120869/4194304  ( 2.9%) 
+physics terrain       [variable]       41036/1048576  ( 3.9%) 
+
+Level flags = 0
+
+Total triangle count: 3499
+Writing c:\users\mrgho\documents\github\gm_evca\_matts_proposed_changes\gm_evca_rd-dev2-3__matt.bsp
+3 seconds elapsed
