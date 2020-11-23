@@ -1,0 +1,10 @@
+"vertexlitgeneric"
+{
+	"$basetexture" "realworldtextures2\wood\wood_03"
+	"$surfaceprop" "wood"
+	"$envmap" "env_cubemap"
+	"$envmaptint" "[.6 .6 .6]"
+	"$detail" "realworldtextures2\detail\dt_wood"
+	"$detailblendfactor" ".8"
+	"$detailscale" "7"
+} //realworld textures version 2 - made by tophattwaffle - please credit me if used! - contact: www.tophattwaffle.com
