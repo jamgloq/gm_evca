@@ -4,4 +4,4 @@
 * Modeled after a familiar place 
 * Use cstrike and tf textures 
 
-* Custom models and textures are availible in materials
+* Custom models and textures are availible in materials/models
