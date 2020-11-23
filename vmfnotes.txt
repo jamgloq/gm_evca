@@ -1,9 +1,13 @@
 
-
+TODO 11-2020
+Fix brushes!
+Fix lights/nodraw
+Fix viscluster
 
 Current world:
 1.083333333 Real scale
 0.9290 x old scale (56 x 28 unit ceiling tiles)
+hallway 20 units wider 
 
 ceiling tile scale
 52x26 units
@@ -14,6 +18,6 @@ floor scale
 0.05
 realworldtextures/floor/mixtile/solid/gray
 
-hallway 20 units wider 
+
 COPY PASTE LIGHTS SEPERATELY FROM OTHER PARTS OF THE BUILDING 
 Manually align lights in hallway? up to one unit off everywhere. usually 1/2
