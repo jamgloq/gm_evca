@@ -4,8 +4,6 @@
 materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
 Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
 ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-material "realworldtextures2/metal/wall/metal_157_reflective" not found.
-Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_157_REFLECTIVE
 material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
 Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
 material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
@@ -14,663 +12,8 @@ Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_pa
 Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
 Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
 fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 212 detail faces...done (0)
-Merging details...done (0)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (0)
-writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
-done (0)
-Creating default LDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Creating default HDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Finding displacement neighbors...
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-done (1) (291844 bytes)
-Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
-Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
-Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
-Compacting texture/material tables...
-Reduced 4049 texinfos to 821
-Reduced 68 texdatas to 53 (2798 bytes to 2245)
-Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
-2 seconds elapsed
-
-
-
-16 threads
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
- 249 portalclusters
- 628 numportals
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.04%)
-Total clusters visible: 33142
-Average clusters visible: 133
-Building PAS...
-Average clusters audible: 247
-visdatasize:17441  compressed from 15936
-writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-5 seconds elapsed
-
-
-
-[Reading texlights from 'lights.rad']
-[45 texlights parsed from 'lights.rad']
-
-Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-PREP OK
-4215 faces
-2 degenerate faces
-1377257 square feet [198325136.00 square inches]
-931 Displacements
-64516 Square Feet [9290418.00 Square Inches]
-4213 patches before subdivision
-7455 patches after subdivision
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-62 direct lights
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1276501, max 1462
-transfer lists:   9.7 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(108086, 96413, 76909)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(18886, 18024, 12310)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8514, 8551, 5178)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3221, 3384, 1729)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1572, 1709, 785)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(675, 763, 302)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(323, 377, 135)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(145, 176, 55)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(69, 86, 24)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(32, 41, 10)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(15, 20, 5)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 10, 2)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 5, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 2, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 1, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-0 of 0 (0% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  28/4096         1344/196608   ( 0.7%) 
-brushes                861/16384       10332/196608   ( 5.3%) 
-brushsides            6562/65536       52496/524288   (10.0%) 
-planes                5252/65536      105040/1310720  ( 8.0%) 
-vertexes              6780/65536       81360/786432   (10.3%) 
-nodes                 1348/65536       43136/2097152  ( 2.1%) 
-texinfos               821/12288       59112/884736   ( 6.7%) 
-texdata                 53/2048         1696/65536    ( 2.6%) 
-dispinfos              931/0          163856/0        ( 0.0%) 
-disp_verts           74571/0         1491420/0        ( 0.0%) 
-disp_tris           117728/0          235456/0        ( 0.0%) 
-disp_lmsamples      241240/0          241240/0        ( 0.0%) 
-faces                 4215/65536      236040/3670016  ( 6.4%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces             3575/65536      200200/3670016  ( 5.5%) 
-leaves                1377/65536       44064/2097152  ( 2.1%) 
-leaffaces             3452/65536        6904/131072   ( 5.3%) 
-leafbrushes           1155/65536        2310/131072   ( 1.8%) 
-areas                    5/1024           40/8192     ( 0.5%) 
-surfedges            35788/512000     143152/2048000  ( 7.0%) 
-edges                20057/256000      80228/1024000  ( 7.8%) 
-LDR worldlights         62/8192         5456/720896   ( 0.8%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips            355/32768        3550/327680   ( 1.1%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         10524/65536       21048/131072   (16.1%) 
-cubemapsamples           2/1024           32/16384    ( 0.2%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]      548308/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]       17441/16777216 ( 0.1%) 
-entdata               [variable]       70229/393216   (17.9%) 
-LDR ambient table     1377/65536        5508/262144   ( 2.1%) 
-HDR ambient table     1377/65536        5508/262144   ( 2.1%) 
-LDR leaf ambient      2325/65536       65100/1835008  ( 3.5%) 
-HDR leaf ambient      1377/65536       38556/1835008  ( 2.1%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/12       ( 8.3%) 
-static props          [variable]           1/272      ( 0.4%) 
-pakfile               [variable]      269146/0        ( 0.0%) 
-physics               [variable]      291844/4194304  ( 7.0%) 
-physics terrain       [variable]       70611/1048576  ( 6.7%) 
-
-Level flags = 0
-
-Total triangle count: 13068
-Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-10 seconds elapsed
-
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
-Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-material "realworldtextures2/metal/wall/metal_157_reflective" not found.
-Material not found!: REALWORLDTEXTURES2/METAL/WALL/METAL_157_REFLECTIVE
-material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
-material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...10**** leaked ****
-Entity prop_static (1274.00 -27.78 -118.48) leaked!
-Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 212 detail faces...done (0)
-Merging details...done (0)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (0)
-Creating default LDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Creating default HDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Finding displacement neighbors...
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-done (1) (292214 bytes)
-Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
-Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
-Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
-Compacting texture/material tables...
-Reduced 4056 texinfos to 826
-Reduced 69 texdatas to 54 (2806 bytes to 2253)
-Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
-2 seconds elapsed
-
-
-
-16 threads
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
-LoadPortals: couldn't read c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
-
-
-
-[Reading texlights from 'lights.rad']
-[45 texlights parsed from 'lights.rad']
-
-Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-PREP OK
-No vis information, direct lighting only.
-4508 faces
-3 degenerate faces
-2505545 square feet [360798592.00 square inches]
-931 Displacements
-64516 Square Feet [9290418.00 Square Inches]
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-62 direct lights
-0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0038 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-0 of 0 (0% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  30/4096         1440/196608   ( 0.7%) 
-brushes                861/16384       10332/196608   ( 5.3%) 
-brushsides            6562/65536       52496/524288   (10.0%) 
-planes                5260/65536      105200/1310720  ( 8.0%) 
-vertexes              7068/65536       84816/786432   (10.8%) 
-nodes                 1614/65536       51648/2097152  ( 2.5%) 
-texinfos               826/12288       59472/884736   ( 6.7%) 
-texdata                 54/2048         1728/65536    ( 2.6%) 
-dispinfos              931/0          163856/0        ( 0.0%) 
-disp_verts           74571/0         1491420/0        ( 0.0%) 
-disp_tris           117728/0          235456/0        ( 0.0%) 
-disp_lmsamples      241240/0          241240/0        ( 0.0%) 
-faces                 4508/65536      252448/3670016  ( 6.9%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces             3590/65536      201040/3670016  ( 5.5%) 
-leaves                1645/65536       52640/2097152  ( 2.5%) 
-leaffaces             3748/65536        7496/131072   ( 5.7%) 
-leafbrushes           1096/65536        2192/131072   ( 1.7%) 
-areas                    5/1024           40/8192     ( 0.5%) 
-surfedges            37040/512000     148160/2048000  ( 7.2%) 
-edges                20672/256000      82688/1024000  ( 8.1%) 
-LDR worldlights         62/8192         5456/720896   ( 0.8%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips            352/32768        3520/327680   ( 1.1%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         10482/65536       20964/131072   (16.0%) 
-cubemapsamples           2/1024           32/16384    ( 0.2%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]      545676/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]           0/16777216 ( 0.0%) 
-entdata               [variable]       70272/393216   (17.9%) 
-LDR ambient table     1645/65536        6580/262144   ( 2.5%) 
-HDR ambient table     1645/65536        6580/262144   ( 2.5%) 
-LDR leaf ambient      5262/65536      147336/1835008  ( 8.0%) 
-HDR leaf ambient      1645/65536       46060/1835008  ( 2.5%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/12       ( 8.3%) 
-static props          [variable]           1/272      ( 0.4%) 
-pakfile               [variable]      269146/0        ( 0.0%) 
-physics               [variable]      292214/4194304  ( 7.0%) 
-physics terrain       [variable]       70611/1048576  ( 6.7%) 
-
-Level flags = 0
-
-Total triangle count: 13674
-Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-18 seconds elapsed
-
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
-Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
-material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 212 detail faces...done (0)
-Merging details...done (0)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (0)
-writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
-done (0)
-Creating default LDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Creating default HDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Finding displacement neighbors...
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-done (1) (292950 bytes)
-Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
-Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
-Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
-Compacting texture/material tables...
-Reduced 4063 texinfos to 827
-Reduced 71 texdatas to 55 (2982 bytes to 2378)
-Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
-2 seconds elapsed
-
-
-
-16 threads
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
- 249 portalclusters
- 628 numportals
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.04%)
-Total clusters visible: 33142
-Average clusters visible: 133
-Building PAS...
-Average clusters audible: 247
-visdatasize:17441  compressed from 15936
-writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-5 seconds elapsed
-
-
-
-[Reading texlights from 'lights.rad']
-[45 texlights parsed from 'lights.rad']
-
-Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-PREP OK
-4227 faces
-2 degenerate faces
-1377410 square feet [198347136.00 square inches]
-931 Displacements
-64516 Square Feet [9290418.00 Square Inches]
-4225 patches before subdivision
-7511 patches after subdivision
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-62 direct lights
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1280708, max 1462
-transfer lists:   9.8 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(109479, 97722, 78181)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(18948, 18084, 12350)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8537, 8574, 5192)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3229, 3393, 1733)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1575, 1712, 787)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(676, 764, 303)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(323, 377, 135)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(145, 176, 55)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(69, 86, 24)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(32, 41, 10)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(15, 20, 5)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 10, 2)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 5, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 2, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 1, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-0 of 0 (0% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  30/4096         1440/196608   ( 0.7%) 
-brushes                863/16384       10356/196608   ( 5.3%) 
-brushsides            6574/65536       52592/524288   (10.0%) 
-planes                5264/65536      105280/1310720  ( 8.0%) 
-vertexes              6796/65536       81552/786432   (10.4%) 
-nodes                 1360/65536       43520/2097152  ( 2.1%) 
-texinfos               827/12288       59544/884736   ( 6.7%) 
-texdata                 55/2048         1760/65536    ( 2.7%) 
-dispinfos              931/0          163856/0        ( 0.0%) 
-disp_verts           74571/0         1491420/0        ( 0.0%) 
-disp_tris           117728/0          235456/0        ( 0.0%) 
-disp_lmsamples      241240/0          241240/0        ( 0.0%) 
-faces                 4227/65536      236712/3670016  ( 6.4%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces             3587/65536      200872/3670016  ( 5.5%) 
-leaves                1391/65536       44512/2097152  ( 2.1%) 
-leaffaces             3464/65536        6928/131072   ( 5.3%) 
-leafbrushes           1157/65536        2314/131072   ( 1.8%) 
-areas                    5/1024           40/8192     ( 0.5%) 
-surfedges            35884/512000     143536/2048000  ( 7.0%) 
-edges                20105/256000      80420/1024000  ( 7.9%) 
-LDR worldlights         62/8192         5456/720896   ( 0.8%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips            355/32768        3550/327680   ( 1.1%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         10524/65536       21048/131072   (16.1%) 
-cubemapsamples           2/1024           32/16384    ( 0.2%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]      552108/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]       17441/16777216 ( 0.1%) 
-entdata               [variable]       70329/393216   (17.9%) 
-LDR ambient table     1391/65536        5564/262144   ( 2.1%) 
-HDR ambient table     1391/65536        5564/262144   ( 2.1%) 
-LDR leaf ambient      2361/65536       66108/1835008  ( 3.6%) 
-HDR leaf ambient      1391/65536       38948/1835008  ( 2.1%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/12       ( 8.3%) 
-static props          [variable]           1/272      ( 0.4%) 
-pakfile               [variable]      270040/0        ( 0.0%) 
-physics               [variable]      292950/4194304  ( 7.0%) 
-physics terrain       [variable]       70611/1048576  ( 6.7%) 
-
-Level flags = 0
-
-Total triangle count: 13092
-Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-10 seconds elapsed
-
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
-Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
-material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
-Building Faces...done (0)
-Chop Details...done (0)
-Find Visible Detail Sides...
-Merged 212 detail faces...done (0)
-Merging details...done (0)
-FixTjuncs...
-PruneNodes...
-WriteBSP...
-done (0)
-writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
-done (0)
-Creating default LDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Creating default HDR cubemaps for env_cubemap using skybox materials:
-   skybox/sky_dust*.vmt
- ! Run buildcubemaps in the engine to get the correct cube maps.
-Finding displacement neighbors...
-Finding lightmap sample positions...
-Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
-Building Physics collision data...
-done (1) (292950 bytes)
-Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
-Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
-Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
-Compacting texture/material tables...
-Reduced 4052 texinfos to 827
-Reduced 71 texdatas to 55 (2982 bytes to 2378)
-Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
-2 seconds elapsed
-
-
-
-16 threads
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
- 236 portalclusters
- 602 numportals
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.04%)
-Total clusters visible: 31351
-Average clusters visible: 132
-Building PAS...
-Average clusters audible: 234
-visdatasize:15641  compressed from 15104
-writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-5 seconds elapsed
-
-
-
-[Reading texlights from 'lights.rad']
-[45 texlights parsed from 'lights.rad']
-
-Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-PREP OK
-4193 faces
-2 degenerate faces
-1377410 square feet [198347136.00 square inches]
-931 Displacements
-64516 Square Feet [9290418.00 Square Inches]
-4191 patches before subdivision
-7417 patches after subdivision
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-62 direct lights
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1247635, max 1459
-transfer lists:   9.5 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(107628, 96151, 77026)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(18456, 17629, 12051)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(8344, 8382, 5080)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(3152, 3313, 1693)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(1541, 1675, 771)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(661, 748, 297)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(316, 370, 132)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(142, 172, 54)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(67, 84, 24)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(31, 40, 10)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(15, 20, 5)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(7, 9, 2)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(3, 5, 1)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #14 added RGB(2, 2, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #15 added RGB(1, 1, 0)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #16 added RGB(0, 1, 0)
-Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-0 of 0 (0% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  30/4096         1440/196608   ( 0.7%) 
-brushes                858/16384       10296/196608   ( 5.2%) 
-brushsides            6542/65536       52336/524288   (10.0%) 
-planes                5256/65536      105120/1310720  ( 8.0%) 
-vertexes              6759/65536       81108/786432   (10.3%) 
-nodes                 1347/65536       43104/2097152  ( 2.1%) 
-texinfos               827/12288       59544/884736   ( 6.7%) 
-texdata                 55/2048         1760/65536    ( 2.7%) 
-dispinfos              931/0          163856/0        ( 0.0%) 
-disp_verts           74571/0         1491420/0        ( 0.0%) 
-disp_tris           117728/0          235456/0        ( 0.0%) 
-disp_lmsamples      241240/0          241240/0        ( 0.0%) 
-faces                 4193/65536      234808/3670016  ( 6.4%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces             3587/65536      200872/3670016  ( 5.5%) 
-leaves                1378/65536       44096/2097152  ( 2.1%) 
-leaffaces             3414/65536        6828/131072   ( 5.2%) 
-leafbrushes           1152/65536        2304/131072   ( 1.8%) 
-areas                    2/1024           16/8192     ( 0.2%) 
-surfedges            35742/512000     142968/2048000  ( 7.0%) 
-edges                19988/256000      79952/1024000  ( 7.8%) 
-LDR worldlights         62/8192         5456/720896   ( 0.8%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips            356/32768        3560/327680   ( 1.1%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         10548/65536       21096/131072   (16.1%) 
-cubemapsamples           2/1024           32/16384    ( 0.2%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]      546084/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]       15641/16777216 ( 0.1%) 
-entdata               [variable]       69640/393216   (17.7%) 
-LDR ambient table     1378/65536        5512/262144   ( 2.1%) 
-HDR ambient table     1378/65536        5512/262144   ( 2.1%) 
-LDR leaf ambient      2295/65536       64260/1835008  ( 3.5%) 
-HDR leaf ambient      1378/65536       38584/1835008  ( 2.1%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/12       ( 8.3%) 
-static props          [variable]           1/272      ( 0.4%) 
-pakfile               [variable]      270040/0        ( 0.0%) 
-physics               [variable]      292950/4194304  ( 7.0%) 
-physics terrain       [variable]       70611/1048576  ( 6.7%) 
-
-Level flags = 0
-
-Total triangle count: 13018
-Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-10 seconds elapsed
-
-
-
-materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
-Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
-ConVarRef mat_reduceparticles doesn't point to an existing ConVar
-material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
-material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
-Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
-Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
-fixing up env_cubemap materials on brush sides...
-0...1...2...3...4...5...6...7...8...9...10**** leaked ****
-Entity prop_static (1274.00 -27.78 -118.48) leaked!
-Processing areas...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
 Brush 91628: areaportal brush doesn't touch two areas
 
 Brush 91624: areaportal brush doesn't touch two areas
@@ -679,16 +22,20 @@ Brush 180881: areaportal brush doesn't touch two areas
 
 Brush 45273: areaportal brush doesn't touch two areas
 
-Brush 178775: areaportal brush doesn't touch two areas
+Brush 189026: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
 done (0)
 Building Faces...done (0)
 Chop Details...done (0)
 Find Visible Detail Sides...
-Merged 150 detail faces...done (0)
+Merged 238 detail faces...done (0)
 Merging details...done (0)
 FixTjuncs...
 PruneNodes...
 WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
 done (0)
 Creating default LDR cubemaps for env_cubemap using skybox materials:
    skybox/sky_dust*.vmt
@@ -700,13 +47,13 @@ Finding displacement neighbors...
 Finding lightmap sample positions...
 Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
 Building Physics collision data...
-done (1) (325418 bytes)
+done (1) (295180 bytes)
 Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
 Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
 Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
 Compacting texture/material tables...
-Reduced 4071 texinfos to 827
-Reduced 75 texdatas to 58 (3131 bytes to 2509)
+Reduced 4041 texinfos to 848
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
 Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
 2 seconds elapsed
 
@@ -715,97 +62,16 @@ Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
 16 threads
 reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
-LoadPortals: couldn't read c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
-
-
-
-[Reading texlights from 'lights.rad']
-[45 texlights parsed from 'lights.rad']
-
-Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-PREP OK
-No vis information, direct lighting only.
-4611 faces
-2 degenerate faces
-2505438 square feet [360783104.00 square inches]
-931 Displacements
-64516 Square Feet [9290418.00 Square Inches]
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
-62 direct lights
-0...1...2...3...4...5...6...7...8...9...10Build Patch/Sample Hash Table(s).....Done<0.0037 sec>
-0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
-0 of 0 (0% of) surface lights went in leaf ambient cubes.
-0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
-Ready to Finish
-
-Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
-------------       ---------------  ---------------  -------- 
-models                  30/4096         1440/196608   ( 0.7%) 
-brushes                854/16384       10248/196608   ( 5.2%) 
-brushsides            6520/65536       52160/524288   ( 9.9%) 
-planes                5328/65536      106560/1310720  ( 8.1%) 
-vertexes              7572/65536       90864/786432   (11.6%) 
-nodes                 1870/65536       59840/2097152  ( 2.9%) 
-texinfos               827/12288       59544/884736   ( 6.7%) 
-texdata                 58/2048         1856/65536    ( 2.8%) 
-dispinfos              931/0          163856/0        ( 0.0%) 
-disp_verts           74571/0         1491420/0        ( 0.0%) 
-disp_tris           117728/0          235456/0        ( 0.0%) 
-disp_lmsamples      241240/0          241240/0        ( 0.0%) 
-faces                 4611/65536      258216/3670016  ( 7.0%) 
-hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces             3670/65536      205520/3670016  ( 5.6%) 
-leaves                1901/65536       60832/2097152  ( 2.9%) 
-leaffaces             3950/65536        7900/131072   ( 6.0%) 
-leafbrushes           1363/65536        2726/131072   ( 2.1%) 
-areas                    2/1024           16/8192     ( 0.2%) 
-surfedges            37727/512000     150908/2048000  ( 7.4%) 
-edges                21230/256000      84920/1024000  ( 8.3%) 
-LDR worldlights         62/8192         5456/720896   ( 0.8%) 
-HDR worldlights          0/8192            0/720896   ( 0.0%) 
-leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips            403/32768        4030/327680   ( 1.2%) 
-waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         11265/65536       22530/131072   (17.2%) 
-cubemapsamples           2/1024           32/16384    ( 0.2%) 
-overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]      559924/0        ( 0.0%) 
-HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]           0/16777216 ( 0.0%) 
-entdata               [variable]       72647/393216   (18.5%) 
-LDR ambient table     1901/65536        7604/262144   ( 2.9%) 
-HDR ambient table     1901/65536        7604/262144   ( 2.9%) 
-LDR leaf ambient      5424/65536      151872/1835008  ( 8.3%) 
-HDR leaf ambient      1901/65536       53228/1835008  ( 2.9%) 
-occluders                0/0               0/0        ( 0.0%) 
-occluder polygons        0/0               0/0        ( 0.0%) 
-occluder vert ind        0/0               0/0        ( 0.0%) 
-detail props          [variable]           1/12       ( 8.3%) 
-static props          [variable]           1/272      ( 0.4%) 
-pakfile               [variable]      270736/0        ( 0.0%) 
-physics               [variable]      325418/4194304  ( 7.8%) 
-physics terrain       [variable]       70611/1048576  ( 6.7%) 
-
-Level flags = 0
-
-Total triangle count: 13835
-Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-19 seconds elapsed
+ 211 portalclusters
+ 478 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 43 visible clusters (0.13%)
+Total clusters visible: 33424
+Average clusters visible: 158
+Building PAS...
+Average clusters audible: 211
+visdatasize:13123  compressed from 13504
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
 
 
 
@@ -830,12 +96,14 @@ Brush 180881: areaportal brush doesn't touch two areas
 
 Brush 45273: areaportal brush doesn't touch two areas
 
-Brush 178775: areaportal brush doesn't touch two areas
+Brush 189026: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
 done (0)
 Building Faces...done (0)
 Chop Details...done (0)
 Find Visible Detail Sides...
-Merged 150 detail faces...done (0)
+Merged 238 detail faces...done (0)
 Merging details...done (0)
 FixTjuncs...
 PruneNodes...
@@ -853,13 +121,13 @@ Finding displacement neighbors...
 Finding lightmap sample positions...
 Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
 Building Physics collision data...
-done (1) (300434 bytes)
+done (1) (295180 bytes)
 Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
 Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
 Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
 Compacting texture/material tables...
-Reduced 4035 texinfos to 815
-Reduced 75 texdatas to 58 (3131 bytes to 2509)
+Reduced 4041 texinfos to 848
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
 Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
 2 seconds elapsed
 
@@ -868,16 +136,514 @@ Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
 16 threads
 reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
- 225 portalclusters
- 774 numportals
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 26 visible clusters (0.06%)
-Total clusters visible: 40666
-Average clusters visible: 180
+ 211 portalclusters
+ 476 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 42 visible clusters (0.12%)
+Total clusters visible: 33629
+Average clusters visible: 159
 Building PAS...
-Average clusters audible: 225
-visdatasize:14919  compressed from 14400
+Average clusters audible: 211
+visdatasize:13121  compressed from 13504
 writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-4 seconds elapsed
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (123734 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 3355 texinfos to 339
+Reduced 45 texdatas to 36 (1923 bytes to 1545)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 203 portalclusters
+ 447 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 42 visible clusters (0.13%)
+Total clusters visible: 31331
+Average clusters visible: 154
+Building PAS...
+Average clusters audible: 203
+visdatasize:12208  compressed from 12992
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 238 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295180 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4041 texinfos to 848
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 202 portalclusters
+ 445 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 40 visible clusters (0.13%)
+Total clusters visible: 31094
+Average clusters visible: 153
+Building PAS...
+Average clusters audible: 202
+visdatasize:12143  compressed from 12928
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 238 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (295772 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4041 texinfos to 848
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 202 portalclusters
+ 445 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 38 visible clusters (0.12%)
+Total clusters visible: 31124
+Average clusters visible: 154
+Building PAS...
+Average clusters audible: 202
+visdatasize:12146  compressed from 12928
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 238 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (296884 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4047 texinfos to 855
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 209 portalclusters
+ 470 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 38 visible clusters (0.11%)
+Total clusters visible: 33441
+Average clusters visible: 160
+Building PAS...
+Average clusters audible: 209
+visdatasize:12990  compressed from 13376
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (294724 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4038 texinfos to 852
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 206 portalclusters
+ 451 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 39 visible clusters (0.12%)
+Total clusters visible: 31897
+Average clusters visible: 154
+Building PAS...
+Average clusters audible: 206
+visdatasize:12369  compressed from 13184
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 244 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (294724 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4043 texinfos to 853
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 200 portalclusters
+ 441 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 25 visible clusters (0.08%)
+Total clusters visible: 30783
+Average clusters visible: 153
+Building PAS...
+Average clusters audible: 200
+visdatasize:11609  compressed from 12800
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (294724 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4035 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 200 portalclusters
+ 441 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 25 visible clusters (0.08%)
+Total clusters visible: 30783
+Average clusters visible: 153
+Building PAS...
+Average clusters audible: 200
+visdatasize:11609  compressed from 12800
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
 
 
 
@@ -886,13 +652,13 @@ writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 
 Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 PREP OK
-4295 faces
+4284 faces
 2 degenerate faces
-1377281 square feet [198328480.00 square inches]
+1377578 square feet [198371312.00 square inches]
 931 Displacements
 64516 Square Feet [9290418.00 Square Inches]
-4293 patches before subdivision
-7567 patches after subdivision
+4282 patches before subdivision
+7490 patches after subdivision
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
@@ -910,17 +676,195 @@ light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 62 direct lights
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1294101, max 1471
-transfer lists:   9.9 megs
-0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(99324, 86661, 69458)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14984, 13516, 9238)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5420, 4964, 2945)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1807, 1700, 829)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(737, 699, 296)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(278, 270, 95)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(112, 110, 34)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(44, 44, 11)
-0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(18, 18, 4)
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1327934, max 1486
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100295, 87695, 70185)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14823, 13498, 9161)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5326, 4920, 2889)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1752, 1665, 800)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(718, 686, 288)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(269, 263, 92)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(109, 108, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42, 43, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 17, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                777/16384        9324/196608   ( 4.7%) 
+brushsides            6056/65536       48448/524288   ( 9.2%) 
+planes                5172/65536      103440/1310720  ( 7.9%) 
+vertexes              6664/65536       79968/786432   (10.2%) 
+nodes                 1282/65536       41024/2097152  ( 2.0%) 
+texinfos               845/12288       60840/884736   ( 6.9%) 
+texdata                 53/2048         1696/65536    ( 2.6%) 
+dispinfos              931/0          163856/0        ( 0.0%) 
+disp_verts           74571/0         1491420/0        ( 0.0%) 
+disp_tris           117728/0          235456/0        ( 0.0%) 
+disp_lmsamples      241240/0          241240/0        ( 0.0%) 
+faces                 4284/65536      239904/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3639/65536      203784/3670016  ( 5.6%) 
+leaves                1311/65536       41952/2097152  ( 2.0%) 
+leaffaces             3478/65536        6956/131072   ( 5.3%) 
+leafbrushes           1139/65536        2278/131072   ( 1.7%) 
+areas                    2/1024           16/8192     ( 0.2%) 
+surfedges            36069/512000     144276/2048000  ( 7.0%) 
+edges                20143/256000      80572/1024000  ( 7.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            213/32768        2130/327680   ( 0.7%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7989/65536       15978/131072   (12.2%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      557152/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       11609/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1311/65536        5244/262144   ( 2.0%) 
+HDR ambient table     1311/65536        5244/262144   ( 2.0%) 
+LDR leaf ambient      1989/65536       55692/1835008  ( 3.0%) 
+HDR leaf ambient      1311/65536       36708/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/272      ( 0.4%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      294724/4194304  ( 7.0%) 
+physics terrain       [variable]       70611/1048576  ( 6.7%) 
+
+Level flags = 0
+
+Total triangle count: 12955
+Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 91628: areaportal brush doesn't touch two areas
+
+Brush 91624: areaportal brush doesn't touch two areas
+
+Brush 180881: areaportal brush doesn't touch two areas
+
+Brush 45273: areaportal brush doesn't touch two areas
+
+Brush 189026: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (296428 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4044 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 204 portalclusters
+ 447 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 8 visible clusters (0.03%)
+Total clusters visible: 23992
+Average clusters visible: 117
+Building PAS...
+Average clusters audible: 204
+visdatasize:12112  compressed from 13056
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+PREP OK
+4283 faces
+2 degenerate faces
+1377566 square feet [198369616.00 square inches]
+931 Displacements
+64516 Square Feet [9290418.00 Square Inches]
+4281 patches before subdivision
+7489 patches after subdivision
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1325184, max 1475
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100202, 87584, 70048)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14810, 13482, 9142)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5325, 4919, 2887)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1752, 1665, 800)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(718, 686, 288)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(269, 263, 92)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(109, 108, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42, 43, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 17, 4)
 0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 1)
 0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
 0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
@@ -933,55 +877,55 @@ Ready to Finish
 
 Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
 ------------       ---------------  ---------------  -------- 
-models                  30/4096         1440/196608   ( 0.7%) 
-brushes                785/16384        9420/196608   ( 4.8%) 
-brushsides            6106/65536       48848/524288   ( 9.3%) 
-planes                5202/65536      104040/1310720  ( 7.9%) 
-vertexes              6829/65536       81948/786432   (10.4%) 
-nodes                 1442/65536       46144/2097152  ( 2.2%) 
-texinfos               815/12288       58680/884736   ( 6.6%) 
-texdata                 58/2048         1856/65536    ( 2.8%) 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                782/16384        9384/196608   ( 4.8%) 
+brushsides            6086/65536       48688/524288   ( 9.3%) 
+planes                5184/65536      103680/1310720  ( 7.9%) 
+vertexes              6711/65536       80532/786432   (10.2%) 
+nodes                 1294/65536       41408/2097152  ( 2.0%) 
+texinfos               845/12288       60840/884736   ( 6.9%) 
+texdata                 53/2048         1696/65536    ( 2.6%) 
 dispinfos              931/0          163856/0        ( 0.0%) 
 disp_verts           74571/0         1491420/0        ( 0.0%) 
 disp_tris           117728/0          235456/0        ( 0.0%) 
 disp_lmsamples      241240/0          241240/0        ( 0.0%) 
-faces                 4295/65536      240520/3670016  ( 6.6%) 
+faces                 4283/65536      239848/3670016  ( 6.5%) 
 hdr faces                0/65536           0/3670016  ( 0.0%) 
-origfaces             3633/65536      203448/3670016  ( 5.5%) 
-leaves                1473/65536       47136/2097152  ( 2.2%) 
-leaffaces             3618/65536        7236/131072   ( 5.5%) 
-leafbrushes           1302/65536        2604/131072   ( 2.0%) 
+origfaces             3639/65536      203784/3670016  ( 5.6%) 
+leaves                1323/65536       42336/2097152  ( 2.0%) 
+leaffaces             3474/65536        6948/131072   ( 5.3%) 
+leafbrushes           1147/65536        2294/131072   ( 1.8%) 
 areas                    2/1024           16/8192     ( 0.2%) 
-surfedges            36308/512000     145232/2048000  ( 7.1%) 
-edges                20436/256000      81744/1024000  ( 8.0%) 
+surfedges            36071/512000     144284/2048000  ( 7.0%) 
+edges                20153/256000      80612/1024000  ( 7.9%) 
 LDR worldlights         62/8192         5456/720896   ( 0.8%) 
 HDR worldlights          0/8192            0/720896   ( 0.0%) 
 leafwaterdata            0/32768           0/393216   ( 0.0%) 
-waterstrips            384/32768        3840/327680   ( 1.2%) 
+waterstrips            215/32768        2150/327680   ( 0.7%) 
 waterverts               0/65536           0/786432   ( 0.0%) 
-waterindices         10863/65536       21726/131072   (16.6%) 
+waterindices          8079/65536       16158/131072   (12.3%) 
 cubemapsamples           2/1024           32/16384    ( 0.2%) 
 overlays                 0/512             0/180224   ( 0.0%) 
-LDR lightdata         [variable]      559936/0        ( 0.0%) 
+LDR lightdata         [variable]      557152/0        ( 0.0%) 
 HDR lightdata         [variable]           0/0        ( 0.0%) 
-visdata               [variable]       14919/16777216 ( 0.1%) 
-entdata               [variable]       72647/393216   (18.5%) 
-LDR ambient table     1473/65536        5892/262144   ( 2.2%) 
-HDR ambient table     1473/65536        5892/262144   ( 2.2%) 
-LDR leaf ambient      2278/65536       63784/1835008  ( 3.5%) 
-HDR leaf ambient      1473/65536       41244/1835008  ( 2.2%) 
+visdata               [variable]       12112/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1323/65536        5292/262144   ( 2.0%) 
+HDR ambient table     1323/65536        5292/262144   ( 2.0%) 
+LDR leaf ambient      2034/65536       56952/1835008  ( 3.1%) 
+HDR leaf ambient      1323/65536       37044/1835008  ( 2.0%) 
 occluders                0/0               0/0        ( 0.0%) 
 occluder polygons        0/0               0/0        ( 0.0%) 
 occluder vert ind        0/0               0/0        ( 0.0%) 
 detail props          [variable]           1/12       ( 8.3%) 
 static props          [variable]           1/272      ( 0.4%) 
-pakfile               [variable]      270736/0        ( 0.0%) 
-physics               [variable]      300434/4194304  ( 7.2%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      296428/4194304  ( 7.1%) 
 physics terrain       [variable]       70611/1048576  ( 6.7%) 
 
 Level flags = 0
 
-Total triangle count: 13196
+Total triangle count: 12959
 Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 10 seconds elapsed
 
@@ -1000,20 +944,12 @@ Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
 fixing up env_cubemap materials on brush sides...
 0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
 Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
-Brush 91628: areaportal brush doesn't touch two areas
-
-Brush 91624: areaportal brush doesn't touch two areas
-
 Brush 180881: areaportal brush doesn't touch two areas
-
-Brush 45273: areaportal brush doesn't touch two areas
-
-Brush 178775: areaportal brush doesn't touch two areas
 done (0)
 Building Faces...done (0)
 Chop Details...done (0)
 Find Visible Detail Sides...
-Merged 150 detail faces...done (0)
+Merged 260 detail faces...done (0)
 Merging details...done (0)
 FixTjuncs...
 PruneNodes...
@@ -1031,13 +967,13 @@ Finding displacement neighbors...
 Finding lightmap sample positions...
 Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
 Building Physics collision data...
-done (1) (300434 bytes)
+done (1) (297212 bytes)
 Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
 Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
 Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
 Compacting texture/material tables...
-Reduced 4038 texinfos to 815
-Reduced 75 texdatas to 58 (3131 bytes to 2509)
+Reduced 4046 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
 Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
 2 seconds elapsed
 
@@ -1046,16 +982,16 @@ Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
 16 threads
 reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
- 184 portalclusters
- 669 numportals
-0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 17 visible clusters (0.06%)
-Total clusters visible: 28746
-Average clusters visible: 156
+ 200 portalclusters
+ 441 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 10 visible clusters (0.04%)
+Total clusters visible: 23764
+Average clusters visible: 118
 Building PAS...
-Average clusters audible: 184
-visdatasize:9989  compressed from 8832
+Average clusters audible: 198
+visdatasize:11506  compressed from 12800
 writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
-2 seconds elapsed
+0 seconds elapsed
 
 
 
@@ -1064,13 +1000,13 @@ writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 
 Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
 PREP OK
-4296 faces
+4284 faces
 2 degenerate faces
-1377281 square feet [198328480.00 square inches]
+1377566 square feet [198369616.00 square inches]
 931 Displacements
 64516 Square Feet [9290418.00 Square Inches]
-4294 patches before subdivision
-7590 patches after subdivision
+4282 patches before subdivision
+7488 patches after subdivision
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
@@ -1088,4 +1024,1196 @@ light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
 62 direct lights
-0
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1324188, max 1475
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100179, 87565, 70034)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14805, 13477, 9139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5323, 4916, 2886)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1750, 1663, 799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(717, 685, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(269, 263, 92)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(109, 108, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42, 43, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 17, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0043 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                784/16384        9408/196608   ( 4.8%) 
+brushsides            6098/65536       48784/524288   ( 9.3%) 
+planes                5186/65536      103720/1310720  ( 7.9%) 
+vertexes              6711/65536       80532/786432   (10.2%) 
+nodes                 1280/65536       40960/2097152  ( 2.0%) 
+texinfos               845/12288       60840/884736   ( 6.9%) 
+texdata                 53/2048         1696/65536    ( 2.6%) 
+dispinfos              931/0          163856/0        ( 0.0%) 
+disp_verts           74571/0         1491420/0        ( 0.0%) 
+disp_tris           117728/0          235456/0        ( 0.0%) 
+disp_lmsamples      241240/0          241240/0        ( 0.0%) 
+faces                 4284/65536      239904/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3641/65536      203896/3670016  ( 5.6%) 
+leaves                1309/65536       41888/2097152  ( 2.0%) 
+leaffaces             3475/65536        6950/131072   ( 5.3%) 
+leafbrushes           1142/65536        2284/131072   ( 1.7%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            36062/512000     144248/2048000  ( 7.0%) 
+edges                20145/256000      80580/1024000  ( 7.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            207/32768        2070/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7866/65536       15732/131072   (12.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      557100/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       11506/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1309/65536        5236/262144   ( 2.0%) 
+HDR ambient table     1309/65536        5236/262144   ( 2.0%) 
+LDR leaf ambient      2055/65536       57540/1835008  ( 3.1%) 
+HDR leaf ambient      1309/65536       36652/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/272      ( 0.4%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      297212/4194304  ( 7.1%) 
+physics terrain       [variable]       70611/1048576  ( 6.7%) 
+
+Level flags = 0
+
+Total triangle count: 12940
+Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4041 texinfos to 844
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 206 portalclusters
+ 451 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24749
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 204
+visdatasize:12311  compressed from 13184
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+PREP OK
+4284 faces
+2 degenerate faces
+1377566 square feet [198369616.00 square inches]
+931 Displacements
+64516 Square Feet [9290418.00 Square Inches]
+4282 patches before subdivision
+7488 patches after subdivision
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1324188, max 1475
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100179, 87565, 70034)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14805, 13477, 9139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5323, 4916, 2886)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1750, 1663, 799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(717, 685, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(269, 263, 92)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(109, 108, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42, 43, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 17, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                782/16384        9384/196608   ( 4.8%) 
+brushsides            6086/65536       48688/524288   ( 9.3%) 
+planes                5186/65536      103720/1310720  ( 7.9%) 
+vertexes              6711/65536       80532/786432   (10.2%) 
+nodes                 1280/65536       40960/2097152  ( 2.0%) 
+texinfos               844/12288       60768/884736   ( 6.9%) 
+texdata                 52/2048         1664/65536    ( 2.5%) 
+dispinfos              931/0          163856/0        ( 0.0%) 
+disp_verts           74571/0         1491420/0        ( 0.0%) 
+disp_tris           117728/0          235456/0        ( 0.0%) 
+disp_lmsamples      241240/0          241240/0        ( 0.0%) 
+faces                 4284/65536      239904/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3641/65536      203896/3670016  ( 5.6%) 
+leaves                1309/65536       41888/2097152  ( 2.0%) 
+leaffaces             3475/65536        6950/131072   ( 5.3%) 
+leafbrushes           1142/65536        2284/131072   ( 1.7%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            36062/512000     144248/2048000  ( 7.0%) 
+edges                20145/256000      80580/1024000  ( 7.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            207/32768        2070/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7866/65536       15732/131072   (12.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      557100/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12311/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1309/65536        5236/262144   ( 2.0%) 
+HDR ambient table     1309/65536        5236/262144   ( 2.0%) 
+LDR leaf ambient      2055/65536       57540/1835008  ( 3.1%) 
+HDR leaf ambient      1309/65536       36652/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/272      ( 0.4%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      297212/4194304  ( 7.1%) 
+physics terrain       [variable]       70611/1048576  ( 6.7%) 
+
+Level flags = 0
+
+Total triangle count: 12940
+Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4050 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 206 portalclusters
+ 451 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24749
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 204
+visdatasize:12311  compressed from 13184
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+PREP OK
+4284 faces
+2 degenerate faces
+1377566 square feet [198369616.00 square inches]
+931 Displacements
+64516 Square Feet [9290418.00 Square Inches]
+4282 patches before subdivision
+7488 patches after subdivision
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1324188, max 1475
+transfer lists:  10.1 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100179, 87565, 70034)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14805, 13477, 9139)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5323, 4916, 2886)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1750, 1663, 799)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(717, 685, 287)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(269, 263, 92)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(109, 108, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42, 43, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 17, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                786/16384        9432/196608   ( 4.8%) 
+brushsides            6110/65536       48880/524288   ( 9.3%) 
+planes                5186/65536      103720/1310720  ( 7.9%) 
+vertexes              6711/65536       80532/786432   (10.2%) 
+nodes                 1280/65536       40960/2097152  ( 2.0%) 
+texinfos               845/12288       60840/884736   ( 6.9%) 
+texdata                 53/2048         1696/65536    ( 2.6%) 
+dispinfos              931/0          163856/0        ( 0.0%) 
+disp_verts           74571/0         1491420/0        ( 0.0%) 
+disp_tris           117728/0          235456/0        ( 0.0%) 
+disp_lmsamples      241240/0          241240/0        ( 0.0%) 
+faces                 4284/65536      239904/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3641/65536      203896/3670016  ( 5.6%) 
+leaves                1309/65536       41888/2097152  ( 2.0%) 
+leaffaces             3475/65536        6950/131072   ( 5.3%) 
+leafbrushes           1142/65536        2284/131072   ( 1.7%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            36062/512000     144248/2048000  ( 7.0%) 
+edges                20145/256000      80580/1024000  ( 7.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            207/32768        2070/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7866/65536       15732/131072   (12.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      557100/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12311/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1309/65536        5236/262144   ( 2.0%) 
+HDR ambient table     1309/65536        5236/262144   ( 2.0%) 
+LDR leaf ambient      2055/65536       57540/1835008  ( 3.1%) 
+HDR leaf ambient      1309/65536       36652/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/272      ( 0.4%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      297212/4194304  ( 7.1%) 
+physics terrain       [variable]       70611/1048576  ( 6.7%) 
+
+Level flags = 0
+
+Total triangle count: 12940
+Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4050 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 206 portalclusters
+ 451 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24749
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 204
+visdatasize:12311  compressed from 13184
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4050 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 206 portalclusters
+ 451 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24749
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 204
+visdatasize:12311  compressed from 13184
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297213 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4046 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 206 portalclusters
+ 451 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24749
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 204
+visdatasize:12311  compressed from 13184
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4046 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 202 portalclusters
+ 447 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 14 visible clusters (0.06%)
+Total clusters visible: 24362
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 200
+visdatasize:12070  compressed from 12928
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4046 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 202 portalclusters
+ 447 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24361
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 200
+visdatasize:12070  compressed from 12928
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+PREP OK
+4268 faces
+2 degenerate faces
+1377566 square feet [198369616.00 square inches]
+931 Displacements
+64516 Square Feet [9290418.00 Square Inches]
+4266 patches before subdivision
+7456 patches after subdivision
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1313312, max 1475
+transfer lists:  10.0 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(99962, 87367, 69885)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14707, 13388, 9082)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5281, 4878, 2865)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1733, 1647, 792)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(710, 679, 285)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(266, 260, 91)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(108, 107, 33)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(42, 42, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(17, 17, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(7, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0044 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                784/16384        9408/196608   ( 4.8%) 
+brushsides            6098/65536       48784/524288   ( 9.3%) 
+planes                5188/65536      103760/1310720  ( 7.9%) 
+vertexes              6695/65536       80340/786432   (10.2%) 
+nodes                 1276/65536       40832/2097152  ( 1.9%) 
+texinfos               845/12288       60840/884736   ( 6.9%) 
+texdata                 53/2048         1696/65536    ( 2.6%) 
+dispinfos              931/0          163856/0        ( 0.0%) 
+disp_verts           74571/0         1491420/0        ( 0.0%) 
+disp_tris           117728/0          235456/0        ( 0.0%) 
+disp_lmsamples      241240/0          241240/0        ( 0.0%) 
+faces                 4268/65536      239008/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3641/65536      203896/3670016  ( 5.6%) 
+leaves                1305/65536       41760/2097152  ( 2.0%) 
+leaffaces             3459/65536        6918/131072   ( 5.3%) 
+leafbrushes           1142/65536        2284/131072   ( 1.7%) 
+areas                    4/1024           32/8192     ( 0.4%) 
+surfedges            35998/512000     143992/2048000  ( 7.0%) 
+edges                20125/256000      80500/1024000  ( 7.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            207/32768        2070/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7866/65536       15732/131072   (12.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      553964/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       12070/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1305/65536        5220/262144   ( 2.0%) 
+HDR ambient table     1305/65536        5220/262144   ( 2.0%) 
+LDR leaf ambient      2051/65536       57428/1835008  ( 3.1%) 
+HDR leaf ambient      1305/65536       36540/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/272      ( 0.4%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      297212/4194304  ( 7.1%) 
+physics terrain       [variable]       70611/1048576  ( 6.7%) 
+
+Level flags = 0
+
+Total triangle count: 12908
+Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+10 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...Wrote C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin
+Areaportal leak ! File: C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.lin 
+Brush 180881: areaportal brush doesn't touch two areas
+done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4044 texinfos to 845
+Reduced 69 texdatas to 53 (2962 bytes to 2358)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 202 portalclusters
+ 447 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 13 visible clusters (0.05%)
+Total clusters visible: 24361
+Average clusters visible: 120
+Building PAS...
+Average clusters audible: 200
+visdatasize:12070  compressed from 12928
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4040 texinfos to 844
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 195 portalclusters
+ 430 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 9 visible clusters (0.04%)
+Total clusters visible: 23194
+Average clusters visible: 118
+Building PAS...
+Average clusters audible: 193
+visdatasize:11230  compressed from 12480
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4043 texinfos to 845
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 187 portalclusters
+ 399 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 7 visible clusters (0.03%)
+Total clusters visible: 20436
+Average clusters visible: 109
+Building PAS...
+Average clusters audible: 185
+visdatasize:10399  compressed from 8976
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+materialPath: C:\Program Files (x86)\Steam\steamapps\common\GarrysMod\garrysmod\materials
+Loading C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.vmf
+ConVarRef mat_reduceparticles doesn't point to an existing ConVar
+material "maps/am_evca/realworldtextures/newer/3/metal_3_02_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/3/METAL_3_02_1559_-564_74
+material "maps/am_evca/realworldtextures/newer/2/metal_2_03_1559_-564_74" not found.
+Material not found!: MAPS/AM_EVCA/REALWORLDTEXTURES/NEWER/2/METAL_2_03_1559_-564_74
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_gravel_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/custom/blend_ground6_asphalt_wvt_patch
+Patching WVT material: maps/gm_evca_rd-dev2-5/dev/dev_blendmeasure2_wvt_patch
+fixing up env_cubemap materials on brush sides...
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Processing areas...done (0)
+Building Faces...done (0)
+Chop Details...done (0)
+Find Visible Detail Sides...
+Merged 260 detail faces...done (0)
+Merging details...done (0)
+FixTjuncs...
+PruneNodes...
+WriteBSP...
+done (0)
+writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.prt...Building visibility clusters...
+done (0)
+Creating default LDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Creating default HDR cubemaps for env_cubemap using skybox materials:
+   skybox/sky_dust*.vmt
+ ! Run buildcubemaps in the engine to get the correct cube maps.
+Finding displacement neighbors...
+Finding lightmap sample positions...
+Displacement Alpha : 0...1...2...3...4...5...6...7...8...9...10
+Building Physics collision data...
+done (1) (297212 bytes)
+Error! prop_static using model "models/props/cs_office/computer_caseb_p8a.mdl", which must be used on a dynamic entity (i.e. prop_physics). Deleted.
+Error loading studio model STATIC "models/props/cs_office/computer_caseb_p8a.mdl"!
+Placing detail props : 0...1...2...3...4...5...6...7...8...9...10
+Compacting texture/material tables...
+Reduced 4041 texinfos to 846
+Reduced 68 texdatas to 52 (2943 bytes to 2339)
+Writing C:\Users\greek\Documents\GitHub\gm_evca\gm_evca_rd-dev2-5.bsp
+2 seconds elapsed
+
+
+
+16 threads
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+reading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.prt
+ 187 portalclusters
+ 399 numportals
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10Optimized: 6 visible clusters (0.03%)
+Total clusters visible: 20435
+Average clusters visible: 109
+Building PAS...
+Average clusters audible: 185
+visdatasize:10399  compressed from 8976
+writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+0 seconds elapsed
+
+
+
+[Reading texlights from 'lights.rad']
+[45 texlights parsed from 'lights.rad']
+
+Loading c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+PREP OK
+4264 faces
+2 degenerate faces
+1377536 square feet [198365200.00 square inches]
+931 Displacements
+64516 Square Feet [9290418.00 Square Inches]
+4262 patches before subdivision
+7486 patches after subdivision
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+light has _fifty_percent_distance of 140.000000 but _zero_percent_distance of 0.000000
+62 direct lights
+0...1...2...3...4...5...6...7...8...9...100...1...2...3...4...5...6...7...8...9...10transfers 1298545, max 1470
+transfer lists:   9.9 megs
+0...1...2...3...4...5...6...7...8...9...10	Bounce #1 added RGB(100416, 87926, 70481)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #2 added RGB(14768, 13491, 9196)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #3 added RGB(5258, 4876, 2877)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #4 added RGB(1717, 1638, 792)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #5 added RGB(699, 671, 283)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #6 added RGB(261, 257, 90)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #7 added RGB(106, 105, 32)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #8 added RGB(41, 41, 11)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #9 added RGB(16, 17, 4)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #10 added RGB(6, 7, 1)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #11 added RGB(3, 3, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #12 added RGB(1, 1, 0)
+0...1...2...3...4...5...6...7...8...9...10	Bounce #13 added RGB(0, 0, 0)
+Build Patch/Sample Hash Table(s).....Done<0.0042 sec>
+0...1...2...3...4...5...6...7...8...9...10FinalLightFace Done
+0 of 0 (0% of) surface lights went in leaf ambient cubes.
+0...1...2...3...4...5...6...7...8...9...10Writing leaf ambient...done
+Ready to Finish
+
+Object names       Objects/Maxobjs  Memory / Maxmem  Fullness 
+------------       ---------------  ---------------  -------- 
+models                  28/4096         1344/196608   ( 0.7%) 
+brushes                782/16384        9384/196608   ( 4.8%) 
+brushsides            6086/65536       48688/524288   ( 9.3%) 
+planes                5176/65536      103520/1310720  ( 7.9%) 
+vertexes              6665/65536       79980/786432   (10.2%) 
+nodes                 1255/65536       40160/2097152  ( 1.9%) 
+texinfos               846/12288       60912/884736   ( 6.9%) 
+texdata                 52/2048         1664/65536    ( 2.5%) 
+dispinfos              931/0          163856/0        ( 0.0%) 
+disp_verts           74571/0         1491420/0        ( 0.0%) 
+disp_tris           117728/0          235456/0        ( 0.0%) 
+disp_lmsamples      241240/0          241240/0        ( 0.0%) 
+faces                 4264/65536      238784/3670016  ( 6.5%) 
+hdr faces                0/65536           0/3670016  ( 0.0%) 
+origfaces             3644/65536      204064/3670016  ( 5.6%) 
+leaves                1284/65536       41088/2097152  ( 2.0%) 
+leaffaces             3445/65536        6890/131072   ( 5.3%) 
+leafbrushes           1135/65536        2270/131072   ( 1.7%) 
+areas                    5/1024           40/8192     ( 0.5%) 
+surfedges            35991/512000     143964/2048000  ( 7.0%) 
+edges                20116/256000      80464/1024000  ( 7.9%) 
+LDR worldlights         62/8192         5456/720896   ( 0.8%) 
+HDR worldlights          0/8192            0/720896   ( 0.0%) 
+leafwaterdata            0/32768           0/393216   ( 0.0%) 
+waterstrips            207/32768        2070/327680   ( 0.6%) 
+waterverts               0/65536           0/786432   ( 0.0%) 
+waterindices          7890/65536       15780/131072   (12.0%) 
+cubemapsamples           2/1024           32/16384    ( 0.2%) 
+overlays                 0/512             0/180224   ( 0.0%) 
+LDR lightdata         [variable]      553408/0        ( 0.0%) 
+HDR lightdata         [variable]           0/0        ( 0.0%) 
+visdata               [variable]       10399/16777216 ( 0.1%) 
+entdata               [variable]       69933/393216   (17.8%) 
+LDR ambient table     1284/65536        5136/262144   ( 2.0%) 
+HDR ambient table     1284/65536        5136/262144   ( 2.0%) 
+LDR leaf ambient      1956/65536       54768/1835008  ( 3.0%) 
+HDR leaf ambient      1284/65536       35952/1835008  ( 2.0%) 
+occluders                0/0               0/0        ( 0.0%) 
+occluder polygons        0/0               0/0        ( 0.0%) 
+occluder vert ind        0/0               0/0        ( 0.0%) 
+detail props          [variable]           1/12       ( 8.3%) 
+static props          [variable]           1/272      ( 0.4%) 
+pakfile               [variable]      270040/0        ( 0.0%) 
+physics               [variable]      297212/4194304  ( 7.1%) 
+physics terrain       [variable]       70611/1048576  ( 6.7%) 
+
+Level flags = 0
+
+Total triangle count: 12897
+Writing c:\users\greek\documents\github\gm_evca\gm_evca_rd-dev2-5.bsp
+10 seconds elapsed

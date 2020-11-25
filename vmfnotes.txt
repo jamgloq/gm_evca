@@ -3,6 +3,8 @@ TODO 11-2020
 Fix brushes!
 Fix lights/nodraw
 Fix viscluster
+vents in hallway
+fix other window vis
 
 Current world:
 1.083333333 Real scale
